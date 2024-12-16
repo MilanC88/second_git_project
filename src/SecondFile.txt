@@ -1,1 +1,3 @@
 This is the second file.
+
+Same changes are made to the second file.
